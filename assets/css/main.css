@@ -892,5 +892,17 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
+th {
+  padding: 0.5em 0;
+}
+
+td {
+  padding: 0.2em 0.5em;
+}
 
 /*# sourceMappingURL=main.css.map */
