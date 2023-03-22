@@ -13,3 +13,18 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+th
+        {
+        padding         : .5em 0;
+        }
+td
+        {
+        padding         : .2em .5em;
+        }
