@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tri <br> Dao
+title: <b>Tri</b> <br> Dao
 description: Stanford University
 img: assets/img/tri.jpeg
 redirect: https://tridao.me

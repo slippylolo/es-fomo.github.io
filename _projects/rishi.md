@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rishi Bommasani 
+title: <b>Rishi</b> <br> Bommasani 
 description: Stanford University
 img: assets/img/rishi.jpg
 redirect: https://rishibommasani.github.io

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azalia Mirhoseini
+title: <b>Azalia</b> <br> Mirhoseini
 description: Anthropic
 img: assets/img/azalia.jpg
 redirect: http://azaliamirhoseini.com

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Natalia Vassilieva
+title: <b>Natalia</b> <br> Vassilieva
 description: Cerebras
 img: assets/img/natalia.jpeg
 redirect: https://www.linkedin.com/in/nataliavassilieva

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dan <br> Fu
+title: <b>Dan</b> <br> Fu
 description: Stanford University
 img: assets/img/dan.jpeg
 redirect: https://www.danfu.org

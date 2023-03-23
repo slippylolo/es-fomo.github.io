@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thomas <br> Wang
+title: <b>Thomas</b> <br> Wang
 description: HuggingFace
 img: assets/img/thomas.jpeg
 redirect: https://huggingface.co/TimeRobber

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tim <br> Dettmers
+title: <b>Tim</b> <br> Dettmers
 description: University of Washington
 img: assets/img/tim.png
 redirect: https://timdettmers.com

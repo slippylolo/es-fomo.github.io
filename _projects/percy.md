@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Percy <br> Liang
+title: <b>Percy</b> <br> Liang
 description: Stanford University
 img: assets/img/percy.jpeg
 redirect: https://cs.stanford.edu/~pliang/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ce <br> Zhang
+title: <b>Ce</b> <br> Zhang
 description: ETH, Together
 img: assets/img/ce.png
 redirect: https://zhangce.github.io

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Natalia Gimelshein
+title: <b>Natalia</b> <br> Gimelshein
 description: Meta
 img: assets/img/natalia_g.jpeg
 redirect: https://github.com/ngimel
