@@ -10,9 +10,11 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 * **when & where?**
   * Submit your papers by **`TBD`** (see our [**📝 call for papers**](/call/) for details);
   * Attend the workshop, **`28-29th of July 2023 (TBC)`**, in **Honolulu, Hawaii**—or join us virtually.
+  
 
 ![Banner](assets/img/banner.png){:width="512" .center-image}
-
+*Code it, run it, crash it--restart it.*
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 ## 🦾 the pitch
 
