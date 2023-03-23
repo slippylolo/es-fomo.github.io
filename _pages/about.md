@@ -49,9 +49,9 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 | 2pm         | **Contributed Talk 3**  
 | 2:15pm      | **Poster session**  |                                                                                        |
 | 3:15pm      | *Coffee break*                                                        |                                                                                        |
- | 3:30pm      | **Panel: Large Language Models Tooling Across Industry and Academia** | Anna Goldie *(Anthropic)*, <br>Rishi Bommasani *(CRFM)*,<br> Susan Zhang *(Meta)*,<br> Emily Weber *(AWS)* | |                                                                                        |
+ | 3:30pm      | **Panel: Large Language Models Tooling Across Industry and Academia** | Anna Goldie *(Anthropic)*, <br>Rishi Bommasani *(Stanford University)*,<br> Susan Zhang *(Meta)*,<br> Emily Weber *(AWS)* | |                                                                                        |
 | 4:30pm      | **Session IV: Collaborative Approaches**                              |                                                                                        |
-|                    | Distributed Systems for Decentralized AI                              | Ce Zhang <br> *(Together)*                                                                    |
+|                    | Distributed Systems for Decentralized AI                              | Ce Zhang <br> *(ETH, Together)*                                                                    |
 |                    | Open Tooling for Large Language Models                                | Thomas Wang <br> *(HuggingFace)*                                                              |
 | 5:30pm      | **Awards**                                                            |                                                                                        |
 

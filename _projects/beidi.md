@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beidi <br> Chen
-description: Carnegie Mellon University
+description: Meta, CMU
 img: assets/img/beidi.jpg
 redirect: https://www.andrew.cmu.edu/user/beidic/
 importance: 3
