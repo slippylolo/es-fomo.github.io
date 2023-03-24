@@ -37,7 +37,7 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 | 8:45am      | *Opening remarks*                                                     |                                                                                        |
 | 9:00am     | **Session I: Training Strategies and Libraries**                      |                                                                                        |
 |                    | Scaling Up Models and Data with `t5x` and `seqio`                     | Adam Roberts <br> *(Google Research)*                                                         |
-|                    | Using Megatron-DeepSpeed to Train Large Language Models               | Deepak Narayanan <br> *(Microsoft Research)*                                                  |
+|                    | Using Megatron to Train Large Language Models               | Deepak Narayanan <br> *(Microsoft Research)*                                                  |
 |                    | Training Large Language Models on Cerebras Wafer-Scale Clusters       | Natalia Vassilieva <br> *(Cerebras)*                                                          |
 | 10:15am    | **Contributed Talk 1**                                                |                                                                                        |
 | 10:30am    | *Coffee break*                                                        |                                                                                        |
