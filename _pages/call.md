@@ -18,9 +18,9 @@ Accepted works will be presented as posters during the workshop, and selected wo
 
 ### 📆 important dates
 
-* **Submission deadline**: **`TBD`**;
-* Acceptance notification: **`TBD`**;
-* Camera-ready deadline: **`TBD`**;
+* **Submission deadline**: **`2023/05/31`**;
+* Acceptance notification: **`2023/06/19`**;
+* Camera-ready deadline: **`2023/07/07`**;
 
 ### ❓ relevant topics
 * **Training and inference**:
