@@ -10,6 +10,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 * **when & where?**
   * Submit your papers by **`2023/05/31`** (see our [**📝 call for papers**](/call/) for details);
   * Attend the workshop, **`28-29th of July 2023 (TBC)`**, in **Honolulu, Hawaii**—or join us virtually.
+* **questions?** Contact us at `esfomo.workshop@gmail.com`.
   
 
 ![Banner](assets/img/banner.png){:width="512" .center-image}

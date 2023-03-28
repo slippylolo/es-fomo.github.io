@@ -44,3 +44,4 @@ Accepted works will be presented as posters during the workshop, and selected wo
 * **Reviewing:** reviewing will be double-blind, so authors should take care to adequately anonymize their submission, especially regarding supplementary code. Reviewers will be instructed to focus on correctness and relevance to the workshop.
 * **Non-archival:** this workshop is non-archival and will not result in proceedings; workshop submissions can be submitted to other venues.
 * **Dual submission:** we welcome papers that may have been already accepted at ICML 2023 but which are also relevant to this workshop. 
+* **Contact:** reach out to `esfomo.workshop@gmail.com`.
