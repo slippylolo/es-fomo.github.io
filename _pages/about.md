@@ -5,6 +5,10 @@ permalink: /
 subtitle: <i>Workshop at the International Conference on Machine Learning (ICML) 2023.</i>
 ---
 
+![Banner](assets/img/banner.png){:width="512" .center-image}
+*Code it, run it, crash it--restart it.*
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
 ## 🔥 the gist
 * **what?** A workshop to bring together **interdisciplinary experts** working on the emerging research questions and challenges associated with **foundation model training and inference**.
 * **when & where?**
@@ -12,10 +16,11 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
   * Attend the workshop, **`28-29th of July 2023 (TBC)`**, in **Honolulu, Hawaii**—or join us virtually.
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
   
-
-![Banner](assets/img/banner.png){:width="512" .center-image}
-*Code it, run it, crash it--restart it.*
+![Banner](assets/img/together-small.png){:width="128" .center-image}
+*Best paper and poster prizes sponsored by Together--contact us if you are interested in sponsoring as well!*
 {: style="color:gray; font-size: 80%; text-align: center;"}
+
+<br>
 
 ## 🦾 the pitch
 
