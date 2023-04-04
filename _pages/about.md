@@ -54,6 +54,7 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 | noon           | *Lunch break*                                                         |                                                                                        |
 | 1pm            | **Session III: Deep Optimization**                                    |                                                                                        |
 |                    | PyTorch 2.x: Faster, More Pythonic, and as Dynamic as Ever            | Natalia Gimelshein <br> *(Meta)*                                                              |
+|                    | High-Performance Kernel Programming with Triton            | Philippe Tillet <br> *(OpenAI)*                                                              |
 | 2pm         | **Contributed Talk 3**  
 | 2:15pm      | **Poster session**  |                                                                                        |
 | 3:15pm      | *Coffee break*                                                        |                                                                                        |
