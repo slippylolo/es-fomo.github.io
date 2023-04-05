@@ -7,7 +7,8 @@ nav: true
 ---
 
 ## 📝 call for papers
-*(submission link will be shared as soon as logistics permit!)*
+
+**➡️ Submit your paper on [🤝 OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO).** 
 
 We welcome submissions addressing **emerging research questions and challenges associated with foundation model training and inference**. Notably, we accept submissions concerning the entire spectrum of foundation models: from BERT-sized Transformers, to large models with 100B+ parameters. 
 
@@ -18,9 +19,9 @@ Accepted works will be presented as posters during the workshop, and selected wo
 
 ### 📆 important dates
 
-* **Submission deadline**: **`2023/05/31`**;
+* **Submission deadline**: **`2023/05/31`** (submit on [**🤝 OpenReview**](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO));
 * Acceptance notification: **`2023/06/19`**;
-* Camera-ready deadline: **`2023/07/07`**;
+* Camera-ready deadline: **`2023/07/07`**.
 
 ### ❓ relevant topics
 * **Training and inference**:
