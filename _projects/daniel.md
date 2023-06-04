@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <b>Daniel</b> <br> Hesslow
-description: LightOn
+description: Hugging Face
 img: assets/img/daniel.jpeg
 redirect: https://twitter.com/DanielHesslow
 importance: 2
