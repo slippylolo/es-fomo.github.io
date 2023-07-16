@@ -12,11 +12,11 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 ## 🔥 the gist
 * **what?** A workshop to bring together **interdisciplinary experts** working on the emerging research questions and challenges associated with **foundation model training and inference**.
 * **when & where?**
-  * Attend the workshop, **`29th of July 2023`**, in **Honolulu, Hawaii**—or join us virtually.
+  * Attend the workshop, **`29th of July 2023`**, **Ballroom A**, in **Honolulu, Hawaii**—or join us virtually.
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
   
 ![Banner](assets/img/together-small.png){:width="128" .center-image}
-*Best paper and poster prizes sponsored by Together--contact us if you are interested in sponsoring as well!*
+*Awards and post-workshop happy hour sponsored by Together.*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 <br>
@@ -35,33 +35,42 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 <br>
 
 ## 📆 the plan
-*(timings are provided tentatively while we wait for the logistics to be confirmed, all times HST, UTC-10)*
+*(all times HST, UTC-10)*
 
-|   | Topic                                                                 | Speaker                                                                                |
-|--------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| 8:45am      | *Opening remarks*                                                     |                                                                                        |
-| 9:00am     | **Session I: Training Strategies and Libraries**                      |                                                                                        |
-|                    | Scaling Up Models and Data with `t5x` and `seqio`                     | Adam Roberts <br> *(Google Research)*                                                         |
-|                    | Using Megatron to Train Large Language Models               | Deepak Narayanan <br> *(Microsoft Research)*                                                  |
-|                    | Training Large Language Models on Cerebras Wafer-Scale Clusters       | Natalia Vassilieva <br> *(Cerebras)*                                                          |
-| 10:15am    | **Contributed Talk 1**                                                |                                                                                        |
-| 10:30am    | *Coffee break*                                                        |                                                                                        |
-| 10:35am      | **Contributed Talk 2**                                                |                                                                                        |
-| 11:00am       | **Session II: Efficient Inference**                                   |                                                                                        |
-|                    | The Case for 4-bit Inference                                          | Tim Dettmers <br> *(University of Washington)*                                                |
-|                    | Efficienly Scaling Transformer Inference                              | Aakanksha Chowdhery <br> *(Google Research)*                                                  |
-| noon           | *Lunch break*                                                         |                                                                                        |
-| 1pm            | **Session III: Deep Optimization**                                    |                                                                                        |
-|                    | PyTorch 2.x: Faster, More Pythonic, and as Dynamic as Ever            | Natalia Gimelshein <br> *(Meta)*                                                              |
-|                    | High-Performance Kernel Programming with Triton            | Philippe Tillet <br> *(OpenAI)*                                                              |
-| 2pm         | **Contributed Talk 3**  
-| 2:15pm      | **Poster session**  |                                                                                        |
-| 3:15pm      | *Coffee break*                                                        |                                                                                        |
- | 3:30pm      | **Panel: Large Language Models Tooling Across Industry and Academia** | Anna Goldie *(Anthropic)*, <br>Rishi Bommasani *(Stanford University)*,<br> Susan Zhang *(Meta)*,<br> Emily Webber *(AWS)*, <br> James Bradbury *(Google)* | |                                                                                        |
-| 4:30pm      | **Session IV: Collaborative Approaches**                              |                                                                                        |
-|                    | Distributed Systems for Decentralized AI                              | Ce Zhang <br> *(ETH, Together)*                                                                    |
-|                    | Open Tooling for Large Language Models                                | Thomas Wang <br> *(HuggingFace)*                                                              |
-| 5:30pm      | **Awards**                                                            |                                                                                        |
+|         | Topic                                                                                                                                     | Speaker                                                         |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| 9:00am  | *Opening remarks*                                                                                                                         |                                                                 |
+| 9:10am  | 🔥 **Session I: Large-Scale Distributed Pretraining**                                                                                     |                                                                 |
+|         | Using Megatron to Train Large Language Models                                                                                             | Deepak Narayanan <br> *(Microsoft Research)*                    |
+|         | Distributed Systems for Decentralized AI                                                                                                  | Ce Zhang <br> *(ETH, Together)*                                 |
+| 10:10am | *Coffee break*                                                                                                                            |                                                                 |
+| 10:25am | 🎤 **Contributed Talk 1**                                                                                                                 |                                                                 |
+|         | SRL: Scaling Distributed Reinforcement Learning to Over Ten Thousand Cores                                                                | Yi Wu   <br> *(Tsinghua University, Shanghai Qi Zhi Institute)* |
+| 10:40am | 🎤 **Contributed Talk 2**                                                                                                                 |                                                                 |
+|         | Finetuning Language Models with Just Forward Passes                                                                                       | Sadhika Malladi <br> *(Princeton University)*                   |
+| 10:55am | 🚀 **Session II: Efficient Inference**                                                                                                    |                                                                 |
+|         | The Case for 4-bit Inference                                                                                                              | Tim Dettmers <br> *(University of Washington)*                  |
+|         | Efficienly Scaling Transformer Inference                                                                                                  | Aakanksha Chowdhery <br> *(Google Research)*                    |
+| 11:55am | 🎤 **Contributed Talk 3**                                                                                                                 |                                                                 |
+|         | Memory-Efficient Selective Finetuning                                                                                                     | Antoine Simoulin <br> *(Meta)*                                  |
+| 12:10pm | *Lunch break*                                                                                                                             |                                                                 |
+| 1pm     | 🧑‍🎓 **Poster Session**                                                                                                                  |                                                                 |
+| 2:00pm  | 🎤 **Contributed Talk 4**                                                                                                                 |                                                                 |
+|         | On IO-Efficient Attention Mechanisms: Context-Aware Bifurcated Attention and the Generalized Multi-Group Attention                        | Ben Athiwarathkum<br> *(AWS AI Labs)*                           |
+|         |                                                                                                                                           |                                                                 |
+| 2:15pm  | 💬 **Panel: Large Language Models Tooling Across Industry and Academia**                                                                  |                                                                 |
+|         | Anna Goldie *(Anthropic)*, Rishi Bommasani *(Stanford University)*, Susan Zhang *(Meta)*, Emily Webber *(AWS)*, James Bradbury *(Google)* |                                                                 |
+|         | *Moderated by Abhi Venigalla (Mosaic.ML), Dylan Patel (SemiAnalysis)*                                                                     |                                                                 |
+| 3:15pm  | *Coffee break*                                                                                                                            |                                                                 |
+| 3:30pm  | 🎤 **Contributed Talk 5**                                                                                                                 |                                                                 |
+|         | Fast Causal Attention with Dynamic Sparsity                                                                                               | Daniele Paliotta <br> *(University of Geneva)*                  |
+|         |                                                                                                                                           |                                                                 |
+| 3:45pm  | ⚙️ **Session III: Deep Optimization**                                                                                                     |                                                                 |
+|         | PyTorch 2.x: Faster, More Pythonic, and as Dynamic as Ever                                                                                | Natalia Gimelshein <br> *(OpenAI)*                              |
+|         | High-Performance Kernel Programming with Triton                                                                                           | Philippe Tillet <br> *(OpenAI)*                                 |
+| 4:45pm  | 🏅 **Awards**                                                                                                                             |                                                                 |
+| 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                                           | *sponsored by Together*                                         |
+
 
 <br>
 
