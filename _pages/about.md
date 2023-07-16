@@ -12,7 +12,8 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 ## 🔥 the gist
 * **what?** A workshop to bring together **interdisciplinary experts** working on the emerging research questions and challenges associated with **foundation model training and inference**.
 * **when & where?**
-  * Attend the workshop, **`29th of July 2023`**, **Ballroom A**, in **Honolulu, Hawaii**—or join us virtually.
+  * Attend the workshop, **`29th of July 2023`**, **Ballroom A**, in **Honolulu, Hawaii**—or join us virtually;
+  * Check-out the accepted papers on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO)**.
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
   
 ![Banner](assets/img/together-small.png){:width="128" .center-image}
