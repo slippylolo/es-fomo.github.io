@@ -101,7 +101,7 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 
 <br>
 
-## 💬 the panelists 
+## 💬 the panelists (& moderators)
 
 <div class="projects">
   {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "panelist" -%}
