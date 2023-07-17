@@ -6,9 +6,9 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 nav: true
 ---
 
-## 📝 call for papers
-
 **➡️ The deadline for submitting to ES-FoMo 2023 has passed! See you at the workshop, and stay tuned for a 2024 edition.** 
+
+## 📝 call for papers
 
 We welcome submissions addressing **emerging research questions and challenges associated with foundation model training and inference**. Notably, we accept submissions concerning the entire spectrum of foundation models: from BERT-sized Transformers, to large models with 100B+ parameters. 
 

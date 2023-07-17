@@ -23,24 +23,11 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 
 <br>
 
-## 🦾 the pitch
-
-As models increase in size and training budget, they not only systematically improve in upstream quality, but also exhibit novel emergent capabilities. This increase in scale raises proportionate difficulties for practitioners: foundation model training and inference lie at a unique interdisciplinary crossroad, combining open problems in algorithms, system design, and software engineering. 
-
-Machine learning practitioners are key stakeholders here: on the one hand, researchers may contribute algorithmic insights and novel methods to improving training and inference of large models; on the other hand, novel research findings may be best demonstrated at scale—which may require training models as efficiently as possible to make the best use of available resources. 
-
-The goal of this workshop is to **bring together interdisciplinary experts working on the emerging research questions and challenges associated with foundation model training and inference**. We welcome submissions around training and inference systems/algorithms for foundation models, focusing on scaling-up or on reducing compute, time, memory, bandwidth, and energy requirements. Notably, we encourage submissions concerning the entire spectrum of foundation models: from BERT-sized Transformers, to large models with 100B+ parameters. Topics include but are not limited to (see our [**📝 call for papers**](/call/) for details): 
-* **Training and inference systems**, either distributed at large scale or in resource-constrained scenarios;
-* **Algorithms for improved training and inference efficiency**;
-* **Systems for foundation models**, such as novel programming languages or compilers. 
-
-<br>
-
 ## 📆 the plan
-*(all times HST, UTC-10)*
+*All times HST, UTC-10. Find us in [Ballroom A (floor L4)](https://map.concept3d.com/?id=1107#!m/242756) of the convention center.*
 
 |         | Topic                                                                                                                                     | Speaker                                                         |
-|---------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | 9:00am  | *Opening remarks*                                                                                                                         |                                                                 |
 | 9:10am  | 🔥 **Session I: Large-Scale Distributed Pretraining**                                                                                     |                                                                 |
 |         | Using Megatron to Train Large Language Models                                                                                             | Deepak Narayanan <br> *(Microsoft Research)*                    |
@@ -74,6 +61,18 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 | 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                                           | *sponsored by Together*                                         |
 |         | *RSVP on [Partiful](https://partiful.com/e/h4AW66So2V7DOysQxNkX) to get a ticket!*                                                          |                                                                 |
 
+<br>
+
+## 🦾 the pitch
+
+As models increase in size and training budget, they not only systematically improve in upstream quality, but also exhibit novel emergent capabilities. This increase in scale raises proportionate difficulties for practitioners: foundation model training and inference lie at a unique interdisciplinary crossroad, combining open problems in algorithms, system design, and software engineering. 
+
+Machine learning practitioners are key stakeholders here: on the one hand, researchers may contribute algorithmic insights and novel methods to improving training and inference of large models; on the other hand, novel research findings may be best demonstrated at scale—which may require training models as efficiently as possible to make the best use of available resources. 
+
+The goal of this workshop is to **bring together interdisciplinary experts working on the emerging research questions and challenges associated with foundation model training and inference**. We welcome submissions around training and inference systems/algorithms for foundation models, focusing on scaling-up or on reducing compute, time, memory, bandwidth, and energy requirements. Notably, we encourage submissions concerning the entire spectrum of foundation models: from BERT-sized Transformers, to large models with 100B+ parameters. Topics include but are not limited to (see our [**📝 call for papers**](/call/) for details): 
+* **Training and inference systems**, either distributed at large scale or in resource-constrained scenarios;
+* **Algorithms for improved training and inference efficiency**;
+* **Systems for foundation models**, such as novel programming languages or compilers. 
 
 <br>
 
