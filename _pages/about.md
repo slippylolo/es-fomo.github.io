@@ -12,12 +12,13 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 ## 🔥 the gist
 * **what?** A workshop to bring together **interdisciplinary experts** working on the emerging research questions and challenges associated with **foundation model training and inference**.
 * **when & where?**
-  * Attend the workshop, **`29th of July 2023`**, **Ballroom A**, in **Honolulu, Hawaii**—or join us virtually;
-  * Check-out the accepted papers on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO)**.
+  * **Attend the workshop**, **`29th of July 2023`**, **[Ballroom A (floor L4)](https://map.concept3d.com/?id=1107#!m/242756)**, in Honolulu, Hawaii—or join us virtually through the [official ICML website](https://icml.cc);
+  * Check-out the **accepted papers** on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO)**;
+  * Party with us at the **happy hour sponsored by [Together](https://together.ai)**, RSVP on [Partiful](https://partiful.com/e/h4AW66So2V7DOysQxNkX) to get a ticket!
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
   
 ![Banner](assets/img/together-small.png){:width="128" .center-image}
-*Awards and post-workshop happy hour sponsored by Together.*
+*Awards and post-workshop happy hour sponsored by [Together](https://together.ai).*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 <br>
@@ -55,13 +56,13 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 | 11:55am | 🎤 **Contributed Talk 3**                                                                                                                 |                                                                 |
 |         | Memory-Efficient Selective Finetuning                                                                                                     | Antoine Simoulin <br> *(Meta)*                                  |
 | 12:10pm | *Lunch break*                                                                                                                             |                                                                 |
-| 1pm     | 🧑‍🎓 **Poster Session**                                                                                                                  |                                                                 |
+| 1:00pm  | 🧑‍🎓 **Poster Session**                                                                                                                  |                                                                 |
 | 2:00pm  | 🎤 **Contributed Talk 4**                                                                                                                 |                                                                 |
 |         | On IO-Efficient Attention Mechanisms: Context-Aware Bifurcated Attention and the Generalized Multi-Group Attention                        | Ben Athiwarathkum<br> *(AWS AI Labs)*                           |
 |         |                                                                                                                                           |                                                                 |
 | 2:15pm  | 💬 **Panel: Large Language Models Tooling Across Industry and Academia**                                                                  |                                                                 |
 |         | Anna Goldie *(Anthropic)*, Rishi Bommasani *(Stanford University)*, Susan Zhang *(Meta)*, Emily Webber *(AWS)*, James Bradbury *(Google)* |                                                                 |
-|         | *Moderated by Abhi Venigalla (Mosaic.ML), Dylan Patel (SemiAnalysis)*                                                                     |                                                                 |
+|         | *Moderated by Abhi Venigalla (Mosaic.ML), Dylan Patel (SemiAnalysis).*                                                                    |                                                                 |
 | 3:15pm  | *Coffee break*                                                                                                                            |                                                                 |
 | 3:30pm  | 🎤 **Contributed Talk 5**                                                                                                                 |                                                                 |
 |         | Fast Causal Attention with Dynamic Sparsity                                                                                               | Daniele Paliotta <br> *(University of Geneva)*                  |
@@ -71,6 +72,7 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 |         | High-Performance Kernel Programming with Triton                                                                                           | Philippe Tillet <br> *(OpenAI)*                                 |
 | 4:45pm  | 🏅 **Awards**                                                                                                                             |                                                                 |
 | 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                                           | *sponsored by Together*                                         |
+|         | *RSVP on [Partiful](https://partiful.com/e/h4AW66So2V7DOysQxNkX) to get a ticket!*                                                          |                                                                 |
 
 
 <br>
