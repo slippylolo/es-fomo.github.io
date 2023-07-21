@@ -28,10 +28,11 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 
 |         | Topic                                                                                                                                     | Speaker                                                         |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 9:00am  | *Opening remarks*                                                                                                                         |                                                                 |
-| 9:10am  | 🔥 **Session I: Large-Scale Distributed Pretraining**                                                                                     |                                                                 |
+| 8:55am  | *Opening remarks*                                                                                                                         |                                                                 |
+| 9:00am  | 🔥 **Session I: Large-Scale Distributed Pretraining**                                                                                     |                                                                 |
 |         | Using Megatron to Train Large Language Models                                                                                             | Deepak Narayanan <br> *(Microsoft Research)*                    |
 |         | Distributed Systems for Decentralized AI                                                                                                  | Ce Zhang <br> *(ETH, Together)*                                 |
+|         | Training Large Language Models on Cerebras Wafer-Scale Clusters AI                                                                                                  | Natalia Vassilieva <br> *(Cerebras)*                                 |
 | 10:10am | *Coffee break*                                                                                                                            |                                                                 |
 | 10:25am | 🎤 **Contributed Talk 1**                                                                                                                 |                                                                 |
 |         | SRL: Scaling Distributed Reinforcement Learning to Over Ten Thousand Cores                                                                | Yi Wu   <br> *(Tsinghua University, Shanghai Qi Zhi Institute)* |
