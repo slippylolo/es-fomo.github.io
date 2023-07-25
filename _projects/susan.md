@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <b>Susan</b> <br> Zhang 
-description: Meta
+description:
 img: assets/img/susan.png
 redirect: https://twitter.com/suchenzang
 importance: 5
