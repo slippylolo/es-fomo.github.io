@@ -6,7 +6,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 nav: true
 ---
 
-**➡️ The deadline for submitting to ES-FoMo 2023 has passed! See you at the workshop, and stay tuned for a 2024 edition.** 
+**➡️ ES-FoMo 2023 was a blast! Thank you for joining us at ICML in Hawaii, and stay tuned for a 2024 edition.** 
 
 ## 📝 call for papers
 
