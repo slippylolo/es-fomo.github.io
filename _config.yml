@@ -10,7 +10,6 @@ email: esfomo.workshop@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A workshop to bring together interdisciplinary experts working on the emerging research questions and challenges associated with foundation model training and inference.
 footer_text: >
-  Find us on Twitter.
 keywords: ICML, workshop, efficient, systems, foundation, models  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
