@@ -1,9 +1,9 @@
 ---
 layout: page
 title: <b>Daniel</b> <br> Hesslow
-description: Hugging Face
+description: Adaptive ML
 img: assets/img/daniel.jpeg
 redirect: https://twitter.com/DanielHesslow
-importance: 2
+importance: 4
 category: organizer
 ---

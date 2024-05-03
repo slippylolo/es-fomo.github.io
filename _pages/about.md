@@ -2,64 +2,56 @@
 layout: about
 title: 🏡 workshop
 permalink: /
-subtitle: <i>Workshop at the International Conference on Machine Learning (ICML) 2023.</i>
+subtitle: <i>Workshop at the International Conference on Machine Learning (ICML) 2024.</i>
 ---
 
 ![Banner](assets/img/banner.png){:width="512" .center-image}
 *Code it, run it, crash it--restart it.*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-## 🔥 the gist
+➡️ **ES-FoMO is back for ICML 2024!** Check-out our [**📝 call for papers**](/call/), deadline **10th of June** for submissions!
 
-**➡️ ES-FoMo 2023 was a blast! Thank you for joining us at ICML in Hawaii, and stay tuned for a 2024 edition.** 
+## 🔥 the gist
 
 * **what?** A workshop to bring together **interdisciplinary experts** working on the emerging research questions and challenges associated with **foundation model training and inference**.
 * **when & where?**
-  * Check-out the **recorded talks and panels**, on the [official ICML platform](https://icml.cc/virtual/2023/workshop/21479) (videos are available only for individuals with an ICML registration until end of August, but will be released widely after);
-  * Check-out the **accepted papers** on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO)**.
+  * Join us at **[ICML 2024](https://icml.cc)**, either virtually or [physically](https://maps.app.goo.gl/9Vf8oroxYyiUf2bb7) in Vienna;  
+  * **Submit your papers** on OpenReview (coming soon!), see the [**📝 call for papers**](/call/) for more information.
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
-  
-![Banner](assets/img/together-small.png){:width="128" .center-image}
-*Awards and post-workshop happy hour sponsored by [Together](https://together.ai).*
-{: style="color:gray; font-size: 80%; text-align: center;"}
+* **looking for the 2023 edition?**
+  * Check-out the **recorded talks and panels**, on the **[official ICML platform](https://icml.cc/virtual/2023/workshop/21479)**;
+  * Check-out the **accepted papers** on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO)**.
 
 <br>
 
 ## 📆 the plan
-*All times HST, UTC-10. Find us in [Ballroom A (floor L4)](https://map.concept3d.com/?id=1107#!m/242756) of the convention center.*
+*All times CET, UTC+2. Full schedule to be confirmed.*
 
-|         | Topic                                                                                                                                     | Speaker                                                         |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 8:55am  | *Opening remarks*                                                                                                                         |                                                                 |
-| 9:00am  | 🔥 **Session I: Large-Scale Distributed Pretraining**                                                                                     |                                                                 |
-|         | Using Megatron to Train Large Language Models                                                                                             | Deepak Narayanan <br> *(Microsoft Research)*                    |
-|         | Distributed Systems for Decentralized AI                                                                                                  | Ce Zhang <br> *(ETH, Together)*                                 |
-|         | Training Large Language Models on Cerebras Wafer-Scale Clusters AI                                                                                                  | Natalia Vassilieva <br> *(Cerebras)*                                 |
-| 10:10am | *Coffee break*                                                                                                                            |                                                                 |
-| 10:25am | 🎤 **Contributed Talk 1**                                                                                                                 |                                                                 |
-|         | SRL: Scaling Distributed Reinforcement Learning to Over Ten Thousand Cores                                                                | Yi Wu   <br> *(Tsinghua University, Shanghai Qi Zhi Institute)* |
-| 10:40am | 🎤 **Contributed Talk 2**                                                                                                                 |                                                                 |
-|         | Finetuning Language Models with Just Forward Passes                                                                                       | Sadhika Malladi <br> *(Princeton University)*                   |
-| 10:55am | 🚀 **Session II: Efficient Inference**                                                                                                    |                                                                 |
-|         | The Case for 4-bit Inference                                                                                                              | Tim Dettmers <br> *(University of Washington)*                  |
-|         | Efficienly Scaling Transformer Inference                                                                                                  | Aakanksha Chowdhery <br> *(Google DeepMind)*                    |
-| 11:55am | 🎤 **Contributed Talk 3**                                                                                                                 |                                                                 |
-|         | Memory-Efficient Selective Finetuning                                                                                                     | Antoine Simoulin <br> *(Meta)*                                  |
-| 12:10pm | *Lunch break*                                                                                                                             |                                                                 |
-| 1:00pm  | 🧑‍🎓 **Poster Session**                                                                                                                  |                                                                 |
-| 2:15pm  | 💬 **Panel: Large Language Models Tooling Across Industry and Academia**                                                                  |                                                                 |
-|         | Anna Goldie *(Anthropic)*, Rishi Bommasani *(Stanford University)*, Susan Zhang, Emily Webber *(AWS)*, James Bradbury *(Google DeepMind)* |                                                                 |
-|         | *Moderated by Abhi Venigalla (Mosaic.ML), Dylan Patel (SemiAnalysis).*                                                                    |                                                                 |
-| 3:15pm  | *Coffee break*                                                                                                                            |                                                                 |
-| 3:30pm  | 🎤 **Contributed Talk 5**                                                                                                                 |                                                                 |
-|         | Fast Causal Attention with Dynamic Sparsity                                                                                               | Daniele Paliotta <br> *(University of Geneva)*                  |
-|         |                                                                                                                                           |                                                                 |
-| 3:45pm  | ⚙️ **Session III: Deep Optimization**                                                                                                     |                                                                 |
-|         | PyTorch 2.x: Faster, More Pythonic, and as Dynamic as Ever                                                                                | Natalia Gimelshein <br> *(OpenAI)*                              |
-|         | High-Performance Kernel Programming with Triton                                                                                           | Philippe Tillet <br> *(OpenAI)*                                 |
-| 4:45pm  | 🏅 **Awards**                                                                                                                             |                                                                 |
-| 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                                           | *sponsored by Together*                                         |
-|         | *RSVP on [Partiful](https://partiful.com/e/h4AW66So2V7DOysQxNkX) to get a ticket!*                                                          |                                                                 |
+|        | Topic                                                                                                                  | Speaker                               |
+|--------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| 9:00am | *Opening remarks*                                                                                                      |                                       |
+| 9:15am | **📈 Session I: Emerging Architectures**                                                                               |                                       |
+|        | Mixture-of-Experts: Scaling and Tradeoffs at Training and Inference                                                    | Abhinav Venigalla <br> *(Databricks)* |
+|        | A Deep Dive into State-Space Models                                                                                    | Albert Gu <br> *(Carnegie Mellon)*    |
+| 10:15am | 🎤 **Contributed Talk 1**                                                                                              |                                       |
+| 10:30am | *Coffee break*                                                                                                         |                                       |
+| 10:45am | 🎤 **Contributed Talk 2**                                                                                              |                                       |
+| 11:00am | 🚀 **Session II: Efficient (and Open) Implementations**                                                                |                                       |
+|        | Efficient Quantization Methods and Marlin, a Fast 4-Bit Inference Kernel                                               | Elias Frantar <br> *(IST Austria)*    |
+|        | TBC                                                                                                                    |                                       |
+| noon   | *Lunch break*                                                                                                          |                                       |
+| 1:00pm | 🧑‍🎓 **Poster Session**                                                                                               |                                       |
+| 2:00pm | 💬 **Panel: Data and Architecture Trends Across Industry and Open Communities**                                        |                                       |
+|        | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Stella Biderman (EleutherAI)--more to be announced! |                                       |
+|        | *Moderators TBC.*                                                                                                      |                                       |
+| 3:00pm | 🎤 **Contributed Talk 3**                                                                                              |                                       |
+| 3:15pm | *Coffee break*                                                                                                         |                                       |
+| 3:30pm | 🎤 **Contributed Talk 2**                                                                                              |                                       |
+| 3:45pm | ⚙️ **Session III: Data Tooling and Hardware**                                                                          |                                       |
+|        | Hardware for Efficient Machine Learning                                                                                | Azalia Mirhoseini <br> *(Stanford)*   |
+|        | Open Tooling for Large Data Pipelines                                                                                  | Ludwig Schmidt <br> *(MIT/LAION)*     |
+| 4:45pm | 🏅 **Awards**                                                                                                          |                                       |
+| 6:00pm | 🎉 **Post-workshop happy hour**                                                                                        |                |
 
 <br>
 
@@ -73,6 +65,11 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 * **Training and inference systems**, either distributed at large scale or in resource-constrained scenarios;
 * **Algorithms for improved training and inference efficiency**;
 * **Systems for foundation models**, such as novel programming languages or compilers. 
+
+This is the **second installment** of ES-FoMo; we are bringing further focus in our sessions and talks on three trends observed in 2023:
+* **The emergence of novel architectures**, popularized by [Mamba](https://arxiv.org/abs/2312.00752) (state-space models) and [Mixtral](https://arxiv.org/abs/2401.04088) (mixture-of-experts);
+* **Efficient open implementations**, such as [`gpt-fast`](https://github.com/pytorch-labs/gpt-fast) and [vLLM](https://github.com/vllm-project/vllm);
+* **Open questions on novel hardware and data tooling.**
 
 <br>
 
@@ -128,31 +125,6 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 
 <div class="projects">
   {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "organizer" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-</div>
-
-
-<br>
-
-## 😍 the sponsors 
-
-<div class="projects">
-  {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "sponsor" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
