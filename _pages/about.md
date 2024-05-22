@@ -9,7 +9,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 *Code it, run it, crash it--restart it.*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-➡️ **ES-FoMO is back for ICML 2024!** Check-out our [**📝 call for papers**](/call/), deadline **10th of June** for submissions!
+➡️ **ES-FoMO is back for ICML 2024!** Check-out our [**📝 call for papers**](/call/), deadline **3rd of June** for submissions!
 
 ## 🔥 the gist
 
