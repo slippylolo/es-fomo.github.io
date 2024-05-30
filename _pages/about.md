@@ -10,6 +10,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 ➡️ **ES-FoMO is back for ICML 2024!** Check-out our [**📝 call for papers**](/call/), deadline **3rd of June** for submissions!
+
 ➡️ **The OpenReview is [live](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II)**! Deadline **3rd of June AOE**, please submit your best work!
 
 ## 🔥 the gist
