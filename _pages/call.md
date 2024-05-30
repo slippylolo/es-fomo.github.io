@@ -15,9 +15,11 @@ Beyond "standard" papers focusing on algorithms and evaluations, we encourage co
 
 Accepted works will be presented as posters during the workshop, and selected works will be featured as contributed talks.
 
+**The OpenReview is [live](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II)**!
+
 ### 📆 important dates
 
-* Submission deadline: **`2024/06/03`** (OpenReview link coming soon!);
+* Submission deadline: **`2024/06/03`**;
 * Acceptance notification: **`2024/06/17`**;
 * Camera-ready deadline: **`2024/07/17`**.
 
