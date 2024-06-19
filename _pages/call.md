@@ -20,7 +20,7 @@ Accepted works will be presented as posters during the workshop, and selected wo
 ### 📆 important dates
 
 * Submission deadline: **`2024/06/03`**;
-* Acceptance notification: **`2024/06/17`**;
+* Acceptance notification: **Coming soon!**
 * Camera-ready deadline: **`2024/07/17`**.
 
 ### ❓ relevant topics
