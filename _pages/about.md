@@ -9,7 +9,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 *Code it, run it, crash it--restart it.*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-➡️ **ES-FoMO is back for ICML 2024!** Check-out our [**📝 call for papers**](/call/), deadline **3rd of June** for submissions!
+➡️ **ES-FoMO is back for ICML 2024!** Check-out the schedule below!
 
 ➡️ **The OpenReview is [live](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II)**! Deadline **3rd of June AOE**, please submit your best work!
 
@@ -17,8 +17,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 
 * **what?** A workshop to bring together **interdisciplinary experts** working on the emerging research questions and challenges associated with **foundation model training and inference**.
 * **when & where?**
-  * Join us at **[ICML 2024](https://icml.cc)**, either virtually or [physically](https://maps.app.goo.gl/9Vf8oroxYyiUf2bb7) in Vienna;  
-  * **Submit your papers** on OpenReview (coming soon!), see the [**📝 call for papers**](/call/) for more information.
+  * Join us at **[ICML 2024](https://icml.cc)**, either virtually or [physically](https://maps.app.goo.gl/9Vf8oroxYyiUf2bb7) in Vienna.
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
 * **looking for the 2023 edition?**
   * Check-out the **recorded talks and panels**, on the **[official ICML platform](https://icml.cc/virtual/2023/workshop/21479)**;
@@ -29,31 +28,32 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 ## 📆 the plan
 *All times CET, UTC+2. Full schedule to be confirmed.*
 
-|        | Topic                                                                                                                  | Speaker                               |
-|--------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| 9:00am | *Opening remarks*                                                                                                      |                                       |
-| 9:15am | **📈 Session I: Emerging Architectures**                                                                               |                                       |
-|        | Mixture-of-Experts: Scaling and Tradeoffs at Training and Inference                                                    | Abhinav Venigalla <br> *(Databricks)* |
-|        | A Deep Dive into State-Space Models                                                                                    | Albert Gu <br> *(Carnegie Mellon)*    |
-| 10:15am | 🎤 **Contributed Talk 1**                                                                                              |                                       |
-| 10:30am | *Coffee break*                                                                                                         |                                       |
-| 10:45am | 🎤 **Contributed Talk 2**                                                                                              |                                       |
-| 11:00am | 🚀 **Session II: Efficient (and Open) Implementations**                                                                |                                       |
-|        | Efficient Quantization Methods and Marlin, a Fast 4-Bit Inference Kernel                                               | Elias Frantar <br> *(IST Austria)*    |
-|        | TBC                                                                                                                    |                                       |
-| noon   | *Lunch break*                                                                                                          |                                       |
-| 1:00pm | 🧑‍🎓 **Poster Session**                                                                                               |                                       |
-| 2:00pm | 💬 **Panel: Data and Architecture Trends Across Industry and Open Communities**                                        |                                       |
-|        | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Stella Biderman (EleutherAI)--more to be announced! |                                       |
-|        | *Moderators TBC.*                                                                                                      |                                       |
-| 3:00pm | 🎤 **Contributed Talk 3**                                                                                              |                                       |
-| 3:15pm | *Coffee break*                                                                                                         |                                       |
-| 3:30pm | 🎤 **Contributed Talk 2**                                                                                              |                                       |
-| 3:45pm | ⚙️ **Session III: Data Tooling and Hardware**                                                                          |                                       |
-|        | Hardware for Efficient Machine Learning                                                                                | Azalia Mirhoseini <br> *(Stanford)*   |
-|        | Open Tooling for Large Data Pipelines                                                                                  | Ludwig Schmidt <br> *(MIT/LAION)*     |
-| 4:45pm | 🏅 **Awards**                                                                                                          |                                       |
-| 6:00pm | 🎉 **Post-workshop happy hour**                                                                                        |                |
+|         | Topic                                                                                                                    | Speaker                                   |
+|---------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+|         | **🎛️ Session I: Quantization, Pruning, and Sparsity**                                                                   |                                           |
+| 9:00am  | Talk: **Efficient Quantization Methods and Marlin, a Fast 4-Bit Inference Kernel**                                       | Elias Frantar <br> *(IST Austria)*        |
+| 9:30am  | Oral: [Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation](https://arxiv.org/html/2404.01365v1)    | Harry Dong <br> *(CMU)*                   |
+| 9:45am  | Oral: [Lottery Ticket Adaptation: Mitigating Destructive Inference in LLMs](https://arxiv.org/abs/2406.16797)            | Berivan Isik <br> *(Stanford)*            |
+| 10:00am | *Coffee break*                                                                                                           |                                           |
+|         | **🦾 Session II: Emerging Architectures**                                                                                |                                           |
+| 10:15am | Oral: [Simple Linear Attention Language Models Balance the Recall-Throughput Tradeoff](https://arxiv.org/abs/2402.18668) | Simran Arora <br> *(Stanford)*            |
+| 10:30am | Talk: **A Deep Dive into State-Space Models**                                                                            | Albert Gu <br> *(CMU)*                    |
+| 11:00am | Oral: [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)                                         | Maximilian Beck <br> *(JKU)*              |
+| 11:15am | Talk: **Scaling Mixture-of-Experts: Lessons from DBRX**                                                                  | Vitaliy Chiley <br> *(Databricks)*        |
+| 11:45am | Oral: [Characterising Prompt Compression Methods for Long Context Inference](https://arxiv.org/abs/2407.08892)           | Siddharth Jha <br> *(UCB)*                |
+| noon    | *Lunch break*                                                                                                            |                                           |
+| 1:00pm  | 🧑‍🎓 **Poster Session**                                                                                                 |                                           |
+| 2:15pm  | 🏅 **Best Paper and Best Poster Awards**                                                                                 |                                           |
+|         | **🔥 Session III: Hardware**                                                                                             |                                           |
+| 2:30pm  | Talk: **Hardware for Efficient Machine Learning**                                                                        | Azalia Mirhoseini <br> *(Google)* |
+| 3:00pm  | Off-the-record: **Frontier Clusters for Frontier Models: Scaling to 100,000 GPUs and Beyond**                            | Dylan Patel <br> *(SemiAnalysis)*         |
+| 3:30pm  | *Coffee break*                                                                                                           |                                           |
+| 3:45pm  | 💬 **Panel: Data and Architecture Trends Across Industry and Open Communities**                                          |                                           |
+|         | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Stella Biderman (EleutherAI)--more to be announced!   |                                           |
+|         | *Moderators TBA*                                                                                                         |                                           |
+| 4:30pm  | 💾 **Session IV: Data**                                                                                                  |                                           |
+|         | **Open Tooling for Large Data Pipelines**                                                                                | Ludwig Schmidt <br> *(MIT/LAION)*         |
+| 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                          |                                           |
 
 <br>
 
