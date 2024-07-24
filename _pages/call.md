@@ -12,15 +12,14 @@ We welcome submissions addressing **emerging research questions and challenges a
 
 Beyond "standard" papers focusing on algorithms and evaluations, we encourage contributions which may be more engineering/systems/code-focused than what is commonly accepted at machine learning conferences, and which feature open codebases. **Implementation details, performance benchmarks, and other nitty gritty details are welcome at this workshop**.
 
-
 Accepted works will be presented as posters during the workshop, and selected works will be featured as contributed talks.
 
-**The OpenReview is [live](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II)**!
+**Submissions are closed for the 2024 edition of the workshop!**
 
 ### 📆 important dates
 
 * Submission deadline: **`2024/06/03`**;
-* Acceptance notification: **Coming soon!**
+* Acceptance notification: **`2024/07/01;**
 * Camera-ready deadline: **`2024/07/17`**.
 
 ### ❓ relevant topics
