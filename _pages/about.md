@@ -44,7 +44,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 | 1:00pm  | 🧑‍🎓 **Poster Session**                                                                                                 |                                           |
 | 2:15pm  | 🏅 **Best Paper and Best Poster Awards**                                                                                 |                                           |
 |         | **🔥 Session III: Hardware**                                                                                             |                                           |
-| 2:30pm  | Talk: **Hardware for Efficient Machine Learning**                                                                        | Azalia Mirhoseini <br> *(Google)* |
+| 2:30pm  | Talk: **Scaling Intelligence**                                                                        | Azalia Mirhoseini <br> *(Stanford / Google DeepMind)* |
 | 3:00pm  | Off-the-record: **Frontier Clusters for Frontier Models: Scaling to 100,000 GPUs and Beyond**                            | Dylan Patel <br> *(SemiAnalysis)*         |
 | 3:30pm  | *Coffee break*                                                                                                           |                                           |
 | 3:45pm  | 💬 **Panel: Data and Architecture Trends Across Industry and Open Communities**                                          |                                           |
