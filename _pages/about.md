@@ -32,7 +32,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 |         | **🎛️ Session I: Quantization, Pruning, and Sparsity**                                                                   |                                                       |
 | 9:00am  | Talk: **Efficient Quantization Methods and Marlin, a Fast 4-Bit Inference Kernel**                                       | Elias Frantar <br> *(IST Austria)*                    |
 | 9:30am  | Oral: [Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation](https://arxiv.org/html/2404.01365v1)    | Harry Dong <br> *(CMU)*                               |
-| 9:45am  | Oral: [Lottery Ticket Adaptation: Mitigating Destructive Inference in LLMs](https://arxiv.org/abs/2406.16797)            | Berivan Isik <br> *(Stanford)*                        |
+| 9:45am  | Oral: [Lottery Ticket Adaptation: Mitigating Destructive Inference in LLMs](https://arxiv.org/abs/2406.16797)            | Ashwinee Panda <br> *(Princeton)*                        |
 | 10:00am | *Coffee break*                                                                                                           |                                                       |
 |         | **🦾 Session II: Emerging Architectures**                                                                                |                                                       |
 | 10:15am | Oral: [Simple Linear Attention Language Models Balance the Recall-Throughput Tradeoff](https://arxiv.org/abs/2402.18668) | Simran Arora <br> *(Stanford)*                        |
