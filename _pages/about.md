@@ -44,11 +44,11 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 | 1:00pm  | 🧑‍🎓 **Poster Session**                                                                                                 |                                                       |
 | 2:15pm  | 🏅 **Best Paper and Best Poster Awards**                                                                                 |                                                       |
 |         | **🔥 Session III: Hardware**                                                                                             |                                                       |
-| 2:30pm  | Talk: **Scaling Intelligence**                                                                        | Azalia Mirhoseini <br> *(Stanford / Google DeepMind)* |
+| 2:30pm  | Talk: **Scaling Intelligence**                                                                                           | Azalia Mirhoseini <br> *(Stanford / Google DeepMind)* |
 | 3:00pm  | Off-the-record: **Frontier Clusters for Frontier Models: Scaling to 100,000 GPUs and Beyond**                            | Dylan Patel <br> *(SemiAnalysis)*                     |
 | 3:30pm  | *Coffee break*                                                                                                           |                                                       |
 | 3:45pm  | 💬 **Panel: Data and Architecture Trends Across Industry and Open Communities**                                          |                                                       |
-|         | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Dirk Groeneveld (AI2)                                 |                                                       |
+|         | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Dirk Groeneveld (AI2), Hailey Schoelkopf (EleutherAI) |                                                       |
 |         | *Moderators TBA*                                                                                                         |                                                       |
 | 4:30pm  | 💾 **Session IV: Data**                                                                                                  |                                                       |
 |         | **Open Tooling for Large Data Pipelines**                                                                                | Vaishaal Shankar <br> *(Apple)*                       |
