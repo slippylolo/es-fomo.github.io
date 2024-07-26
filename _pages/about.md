@@ -9,7 +9,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 *Code it, run it, crash it--restart it.*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-➡️ **ES-FoMO is back for ICML 2024!** Check-out the schedule below, and the accepted papers on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
+➡️ **ES-FoMO is back for ICML 2024!** Find us in room **Lehar 2**, and check-out the schedule below, and the accepted papers on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II&referrer=%5BHomepage%5D(%2F)).
 
 
 ## 🔥 the gist
@@ -27,32 +27,32 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 ## 📆 the plan
 *All times CET, UTC+2. Full schedule to be confirmed.*
 
-|         | Topic                                                                                                                    | Speaker                                   |
-|---------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-|         | **🎛️ Session I: Quantization, Pruning, and Sparsity**                                                                   |                                           |
-| 9:00am  | Talk: **Efficient Quantization Methods and Marlin, a Fast 4-Bit Inference Kernel**                                       | Elias Frantar <br> *(IST Austria)*        |
-| 9:30am  | Oral: [Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation](https://arxiv.org/html/2404.01365v1)    | Harry Dong <br> *(CMU)*                   |
-| 9:45am  | Oral: [Lottery Ticket Adaptation: Mitigating Destructive Inference in LLMs](https://arxiv.org/abs/2406.16797)            | Berivan Isik <br> *(Stanford)*            |
-| 10:00am | *Coffee break*                                                                                                           |                                           |
-|         | **🦾 Session II: Emerging Architectures**                                                                                |                                           |
-| 10:15am | Oral: [Simple Linear Attention Language Models Balance the Recall-Throughput Tradeoff](https://arxiv.org/abs/2402.18668) | Simran Arora <br> *(Stanford)*            |
-| 10:30am | Oral: [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)                                         | Maximilian Beck <br> *(JKU)*              |
-| 10:45am | Talk: **A Deep Dive into State-Space Models**                                                                            | Albert Gu <br> *(CMU)*                    |
-| 11:15am | Talk: **Scaling Mixture-of-Experts: Lessons from DBRX**                                                                  | Vitaliy Chiley <br> *(Databricks)*        |
-| 11:45am | Oral: [Characterising Prompt Compression Methods for Long Context Inference](https://arxiv.org/abs/2407.08892)           | Siddharth Jha <br> *(UCB)*                |
-| noon    | *Lunch break*                                                                                                            |                                           |
-| 1:00pm  | 🧑‍🎓 **Poster Session**                                                                                                 |                                           |
-| 2:15pm  | 🏅 **Best Paper and Best Poster Awards**                                                                                 |                                           |
-|         | **🔥 Session III: Hardware**                                                                                             |                                           |
+|         | Topic                                                                                                                    | Speaker                                               |
+|---------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+|         | **🎛️ Session I: Quantization, Pruning, and Sparsity**                                                                   |                                                       |
+| 9:00am  | Talk: **Efficient Quantization Methods and Marlin, a Fast 4-Bit Inference Kernel**                                       | Elias Frantar <br> *(IST Austria)*                    |
+| 9:30am  | Oral: [Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation](https://arxiv.org/html/2404.01365v1)    | Harry Dong <br> *(CMU)*                               |
+| 9:45am  | Oral: [Lottery Ticket Adaptation: Mitigating Destructive Inference in LLMs](https://arxiv.org/abs/2406.16797)            | Berivan Isik <br> *(Stanford)*                        |
+| 10:00am | *Coffee break*                                                                                                           |                                                       |
+|         | **🦾 Session II: Emerging Architectures**                                                                                |                                                       |
+| 10:15am | Oral: [Simple Linear Attention Language Models Balance the Recall-Throughput Tradeoff](https://arxiv.org/abs/2402.18668) | Simran Arora <br> *(Stanford)*                        |
+| 10:30am | Oral: [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)                                         | Maximilian Beck <br> *(JKU)*                          |
+| 10:45am | Talk: **A Deep Dive into State-Space Models**                                                                            | Albert Gu <br> *(CMU)*                                |
+| 11:15am | Talk: **Scaling Mixture-of-Experts: Lessons from DBRX**                                                                  | Vitaliy Chiley <br> *(Databricks)*                    |
+| 11:45am | Oral: [Characterising Prompt Compression Methods for Long Context Inference](https://arxiv.org/abs/2407.08892)           | Siddharth Jha <br> *(UCB)*                            |
+| noon    | *Lunch break*                                                                                                            |                                                       |
+| 1:00pm  | 🧑‍🎓 **Poster Session**                                                                                                 |                                                       |
+| 2:15pm  | 🏅 **Best Paper and Best Poster Awards**                                                                                 |                                                       |
+|         | **🔥 Session III: Hardware**                                                                                             |                                                       |
 | 2:30pm  | Talk: **Scaling Intelligence**                                                                        | Azalia Mirhoseini <br> *(Stanford / Google DeepMind)* |
-| 3:00pm  | Off-the-record: **Frontier Clusters for Frontier Models: Scaling to 100,000 GPUs and Beyond**                            | Dylan Patel <br> *(SemiAnalysis)*         |
-| 3:30pm  | *Coffee break*                                                                                                           |                                           |
-| 3:45pm  | 💬 **Panel: Data and Architecture Trends Across Industry and Open Communities**                                          |                                           |
-|         | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Dirk Groeneveld (AI2)                                 |                                           |
-|         | *Moderators TBA*                                                                                                         |                                           |
-| 4:30pm  | 💾 **Session IV: Data**                                                                                                  |                                           |
-|         | **Open Tooling for Large Data Pipelines**                                                                                | Ludwig Schmidt <br> *(MIT/LAION)*         |
-| 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                          |                                           |
+| 3:00pm  | Off-the-record: **Frontier Clusters for Frontier Models: Scaling to 100,000 GPUs and Beyond**                            | Dylan Patel <br> *(SemiAnalysis)*                     |
+| 3:30pm  | *Coffee break*                                                                                                           |                                                       |
+| 3:45pm  | 💬 **Panel: Data and Architecture Trends Across Industry and Open Communities**                                          |                                                       |
+|         | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Dirk Groeneveld (AI2)                                 |                                                       |
+|         | *Moderators TBA*                                                                                                         |                                                       |
+| 4:30pm  | 💾 **Session IV: Data**                                                                                                  |                                                       |
+|         | **Open Tooling for Large Data Pipelines**                                                                                | Vaishaal Shankar <br> *(Apple)*                       |
+| 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                          |                                                       |
 
 <br>
 
