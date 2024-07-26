@@ -48,7 +48,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 | 3:00pm  | Off-the-record: **Frontier Clusters for Frontier Models: Scaling to 100,000 GPUs and Beyond**                            | Dylan Patel <br> *(SemiAnalysis)*         |
 | 3:30pm  | *Coffee break*                                                                                                           |                                           |
 | 3:45pm  | 💬 **Panel: Data and Architecture Trends Across Industry and Open Communities**                                          |                                           |
-|         | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Stella Biderman (EleutherAI)--more to be announced!   |                                           |
+|         | Aakanksha Chowdhery (Google DeepMind), Dylan Patel (SemiAnalysis), Dirk Groeneveld (AI2)                                 |                                           |
 |         | *Moderators TBA*                                                                                                         |                                           |
 | 4:30pm  | 💾 **Session IV: Data**                                                                                                  |                                           |
 |         | **Open Tooling for Large Data Pipelines**                                                                                | Ludwig Schmidt <br> *(MIT/LAION)*         |
