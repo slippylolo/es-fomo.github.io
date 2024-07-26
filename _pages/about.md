@@ -37,7 +37,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 |         | **🦾 Session II: Emerging Architectures**                                                                                |                                                       |
 | 10:15am | Oral: [Simple Linear Attention Language Models Balance the Recall-Throughput Tradeoff](https://arxiv.org/abs/2402.18668) | Simran Arora <br> *(Stanford)*                        |
 | 10:30am | Oral: [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)                                         | Maximilian Beck <br> *(JKU)*                          |
-| 10:45am | Talk: **A Deep Dive into State-Space Models**                                                                            | Albert Gu <br> *(CMU)*                                |
+| 10:45am | Talk: **On the Tradeoffs of State Space Models**                                                                            | Albert Gu <br> *(CMU)*                                |
 | 11:15am | Talk: **Scaling Mixture-of-Experts: Lessons from DBRX**                                                                  | Vitaliy Chiley <br> *(Databricks)*                    |
 | 11:45am | Oral: [Characterising Prompt Compression Methods for Long Context Inference](https://arxiv.org/abs/2407.08892)           | Siddharth Jha <br> *(UCB)*                            |
 | noon    | *Lunch break*                                                                                                            |                                                       |
