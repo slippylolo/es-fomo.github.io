@@ -2,7 +2,7 @@
 layout: about
 title: 🏡 workshop
 permalink: /
-subtitle: <i>Workshop at the International Conference on Machine Learning (ICML) 2024.</i>
+subtitle: <i>Workshop at the International Conference on Machine Learning (ICML) 2025.</i>
 ---
 
 ![Banner](assets/img/banner.png){:width="512" .center-image}
