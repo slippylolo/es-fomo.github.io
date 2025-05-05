@@ -20,8 +20,8 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 * **when & where?**
   * Join us at **[ICML 2025](https://icml.cc)** in Vancouver!
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
-* **looking for the 2024 edition?**
-  * Check out the [2024 workshop page](/2024)!
+<!-- * **looking for the 2024 edition?**
+  * Check out the [2024 workshop page](/2024)! -->
 
 <!-- <br> -->
 
@@ -83,7 +83,6 @@ This year, we're excited to welcome a number of excellent speakers, watch out fo
 
 <div class="projects">
   {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "speaker" -%}
-  <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
