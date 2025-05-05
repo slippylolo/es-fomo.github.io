@@ -79,52 +79,6 @@ We look forward to continuing to grow this community at ICML 2025!
 
 This year, we're excited to welcome a number of excellent speakers, watch out for the list soon!
 
-<!-- ## 🧑‍🏫 the speakers
-
-<div class="projects">
-  {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "speaker" -%}
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-</div>
-
-<br> -->
-
-<!-- ## 💬 the panelists (& moderators)
-
-<div class="projects">
-  {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "panelist" -%}
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-</div> -->
-
-<br>
-
 ## 😎 the organizers
 
 <div class="projects">
