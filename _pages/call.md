@@ -19,9 +19,7 @@ Accepted works will be presented as posters during the workshop, and selected wo
 ### 📆 important dates
 
 * Submission deadline: **`2025/05/19`**, 11:59PM UTC;
-* Acceptance notification: **`2024/06/09`**
-
-<!-- * Camera-ready deadline: **`2024/07/17`**. -->
+* Acceptance notification: **`2025/06/09`**
 
 ### ❓ relevant topics
 * **Training and inference**:
