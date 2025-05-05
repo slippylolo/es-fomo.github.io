@@ -2,7 +2,7 @@
 layout: about
 title: 📝 call for papers
 permalink: /call/
-subtitle: <i>Workshop at the International Conference on Machine Learning (ICML) 2024.</i>
+subtitle: <i>Workshop at the International Conference on Machine Learning (ICML) 2025.</i>
 nav: true
 ---
 
@@ -14,13 +14,13 @@ Beyond "standard" papers focusing on algorithms and evaluations, we encourage co
 
 Accepted works will be presented as posters during the workshop, and selected works will be featured as contributed talks.
 
-**Submissions are closed for the 2024 edition of the workshop!**
+**Submissions are open for the 2025 edition of the workshop!**
 
 ### 📆 important dates
 
-* Submission deadline: **`2024/06/03`**;
-* Acceptance notification: **`2024/07/01;**
-* Camera-ready deadline: **`2024/07/17`**.
+* Submission deadline: **`2025/05/19`**, 11:59PM UTC;
+* Acceptance notification: **`2024/06/09;**
+<!-- * Camera-ready deadline: **`2024/07/17`**. -->
 
 ### ❓ relevant topics
 * **Training and inference**:
@@ -40,7 +40,7 @@ Accepted works will be presented as posters during the workshop, and selected wo
 
 ### 🥸 additional details
 
-* **Formatting:** all submissions must be in PDF format, following the [ICML template](https://media.icml.cc/Conferences/ICML2023/Styles/icml2023.zip). Although this will not be enforced as a hard limit, we recommend submissions to be concise, up to four pages of main content, with unlimited additional pages for references and supplementary. Supporting code may be provided either as a supplementary .zip or as a link to an anonymized repository.
+* **Formatting:** all submissions must be in PDF format, following the [ICML template](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip). Although this will not be enforced as a hard limit, we recommend submissions to be concise, up to four pages of main content, with unlimited additional pages for references and supplementary. Supporting code may be provided either as a supplementary .zip or as a link to an anonymized repository.
 * **Reviewing:** reviewing will be double-blind, so authors should take care to adequately anonymize their submission, especially regarding supplementary code. Reviewers will be instructed to focus on correctness and relevance to the workshop.
 * **Non-archival:** this workshop is non-archival and will not result in proceedings; workshop submissions can be submitted to other venues.
 * **Dual submission:** we welcome papers that may have been already accepted at ICML 2024 but which are also relevant to this workshop, or that under reviews at other venues (e.g., NeurIPS 2024).

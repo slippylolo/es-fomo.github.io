@@ -9,22 +9,23 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 *Code it, run it, crash it--restart it.*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-➡️ **ES-FoMO is back for ICML 2024!** Find us in room **Lehar 2**, and check-out the schedule below, and the accepted papers on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II&referrer=%5BHomepage%5D(%2F)).
+➡️ **ES-FoMO is back for ICML 2025!** Submissions are live on [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/ES-FoMo-III)!
+- The deadline is May 19, 2025 11:59PM UTC time.
+<!-- Find us in room **Lehar 2**, and check-out the schedule below, and the accepted papers on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II&referrer=%5BHomepage%5D(%2F)). -->
 
 
 ## 🔥 the gist
 
 * **what?** A workshop to bring together **interdisciplinary experts** working on the emerging research questions and challenges associated with **foundation model training and inference**.
 * **when & where?**
-  * Join us at **[ICML 2024](https://icml.cc)**, either virtually or [physically](https://maps.app.goo.gl/9Vf8oroxYyiUf2bb7) in Vienna.
+  * Join us at **[ICML 2025](https://icml.cc)** in Vancouver!
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
-* **looking for the 2023 edition?**
-  * Check-out the **recorded talks and panels**, on the **[official ICML platform](https://icml.cc/virtual/2023/workshop/21479)**;
-  * Check-out the **accepted papers** on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/ES-FoMO)**.
+* **looking for the 2024 edition?**
+  * Check out the [2024 workshop page](/2024)!
 
-<br>
+<!-- <br> -->
 
-## 📆 the plan
+<!-- ## 📆 the plan
 *All times CET, UTC+2. Full schedule to be confirmed.*
 
 |         | Topic                                                                                                                    | Speaker                                               |
@@ -51,7 +52,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 |         | Deepak Narayanan (NVIDIA), Dylan Patel (SemiAnalysis), Dirk Groeneveld (AI2), Hailey Schoelkopf (EleutherAI)             |                                                       |
 | 4:30pm  | 💾 **Session IV: Data**                                                                                                  |                                                       |
 |         | **Open Tooling for Large Data Pipelines**                                                                                | Vaishaal Shankar <br> *(Apple)*                       |
-| 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                          |                                                       |
+| 6:00pm  | 🎉 **Post-workshop happy hour**                                                                                          |                                                       | -->
 
 <br>
 
@@ -66,14 +67,19 @@ The goal of this workshop is to **bring together interdisciplinary experts worki
 * **Algorithms for improved training and inference efficiency**;
 * **Systems for foundation models**, such as novel programming languages or compilers. 
 
-This is the **second installment** of ES-FoMo; we are bringing further focus in our sessions and talks on three trends observed in 2023:
-* **The emergence of novel architectures**, popularized by [Mamba](https://arxiv.org/abs/2312.00752) (state-space models) and [Mixtral](https://arxiv.org/abs/2401.04088) (mixture-of-experts);
-* **Efficient open implementations**, such as [`gpt-fast`](https://github.com/pytorch-labs/gpt-fast) and [vLLM](https://github.com/vllm-project/vllm);
-* **Open questions on novel hardware and data tooling.**
+This is the **third installment** of ES-FoMo; we are bringing further focus in our sessions and talks on two trends observed in 2024 and early 2025:
+* **Test-time compute**, popularized by Open AI o1 and DeepSeek r1
+* **Emergence of new modeling paradigms and modalities** sucha s real-time video and decentralized training
+
+We look forward to continuing to grow this community at ICML 2025!
 
 <br>
 
 ## 🧑‍🏫 the speakers
+
+This year, we're excited to welcome a number of excellent speakers, watch out for the list soon!
+
+<!-- ## 🧑‍🏫 the speakers
 
 <div class="projects">
   {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "speaker" -%}
@@ -95,13 +101,12 @@ This is the **second installment** of ES-FoMo; we are bringing further focus in 
   {%- endif -%}
 </div>
 
-<br>
+<br> -->
 
-## 💬 the panelists (& moderators)
+<!-- ## 💬 the panelists (& moderators)
 
 <div class="projects">
   {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "panelist" -%}
-  <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
@@ -117,7 +122,7 @@ This is the **second installment** of ES-FoMo; we are bringing further focus in 
     {%- endfor %}
   </div>
   {%- endif -%}
-</div>
+</div> -->
 
 <br>
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: <b>Dan</b> <br> Fu
-description: Stanford University, Together
+description: UCSD, Together AI
 img: assets/img/dan.jpeg
 redirect: https://www.danfu.org
-importance: 3
+importance: 1
 category: organizer
 ---
