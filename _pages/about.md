@@ -20,6 +20,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 * **when & where?**
   * Join us at **[ICML 2025](https://icml.cc)** in Vancouver!
 * **questions?** Contact us at `esfomo.workshop@gmail.com`.
+
 <!-- * **looking for the 2024 edition?**
   * Check out the [2024 workshop page](/2024)! -->
 
