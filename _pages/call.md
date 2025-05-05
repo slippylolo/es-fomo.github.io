@@ -14,12 +14,13 @@ Beyond "standard" papers focusing on algorithms and evaluations, we encourage co
 
 Accepted works will be presented as posters during the workshop, and selected works will be featured as contributed talks.
 
-**Submissions are open for the 2025 edition of the workshop!**
+**Submissions are open for the 2025 edition of the workshop!** Submit on [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/ES-FoMo-III).
 
 ### 📆 important dates
 
 * Submission deadline: **`2025/05/19`**, 11:59PM UTC;
-* Acceptance notification: **`2024/06/09;**
+* Acceptance notification: **`2024/06/09`**
+
 <!-- * Camera-ready deadline: **`2024/07/17`**. -->
 
 ### ❓ relevant topics
