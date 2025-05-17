@@ -5,5 +5,5 @@ description: EleutherAI
 img: assets/img/hailey.jpeg
 redirect: https://x.com/haileysch__
 importance: 3
-category: panelist
+category: none
 ---

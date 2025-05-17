@@ -10,7 +10,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 ➡️ **ES-FoMO is back for ICML 2025!** Submissions are live on [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/ES-FoMo-III)!
-- The deadline is May 19, 2025 11:59PM UTC time.
+- The deadline is **May 26**, 2025 11:59PM UTC time.
 <!-- Find us in room **Lehar 2**, and check-out the schedule below, and the accepted papers on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II&referrer=%5BHomepage%5D(%2F)). -->
 
 
@@ -78,7 +78,27 @@ We look forward to continuing to grow this community at ICML 2025!
 
 ## 🧑‍🏫 the speakers
 
-This year, we're excited to welcome a number of excellent speakers, watch out for the list soon!
+This year, we're excited to welcome a number of excellent speakers, watch out for more soon!
+
+<div class="projects">
+  {%- assign sorted_projects = site.projects | sort: "importance" | where: "category", "speaker" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+</div>
 
 ## 😎 the organizers
 
