@@ -42,5 +42,5 @@ Accepted works will be presented as posters during the workshop, and selected wo
 * **Formatting:** all submissions must be in PDF format, following the [ICML template](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip). Although this will not be enforced as a hard limit, we recommend submissions to be concise, up to four pages of main content, with unlimited additional pages for references and supplementary. Supporting code may be provided either as a supplementary .zip or as a link to an anonymized repository.
 * **Reviewing:** reviewing will be double-blind, so authors should take care to adequately anonymize their submission, especially regarding supplementary code. Reviewers will be instructed to focus on correctness and relevance to the workshop.
 * **Non-archival:** this workshop is non-archival and will not result in proceedings; workshop submissions can be submitted to other venues.
-* **Dual submission:** we welcome papers that may have been already accepted at ICML 2024 but which are also relevant to this workshop, or that under reviews at other venues (e.g., NeurIPS 2024).
+* **Dual submission:** we welcome papers that may have been already accepted at ICML 2025 but which are also relevant to this workshop, or that under reviews at other venues (e.g., NeurIPS 2025).
 * **Contact:** reach out to `esfomo.workshop@gmail.com`.
