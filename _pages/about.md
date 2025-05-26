@@ -10,7 +10,7 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 ➡️ **ES-FoMO is back for ICML 2025!** Submissions are live on [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/ES-FoMo-III)!
-- The deadline is **May 26**, 2025 11:59PM UTC time.
+- The deadline is **May 27**, 2025 11:59PM UTC time - **one-day extension for US Memorial Day**.
 <!-- Find us in room **Lehar 2**, and check-out the schedule below, and the accepted papers on [OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/ES-FoMo-II&referrer=%5BHomepage%5D(%2F)). -->
 
 

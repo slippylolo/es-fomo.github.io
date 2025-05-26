@@ -18,7 +18,7 @@ Accepted works will be presented as posters during the workshop, and selected wo
 
 ### 📆 important dates
 
-* Submission deadline: **`2025/05/26`**, 11:59PM UTC;
+* Submission deadline: **`2025/05/27`**, 11:59PM UTC (**one-day extension for US Memorial Day**);
 * Acceptance notification: **`2025/06/09`**
 
 ### ❓ relevant topics
