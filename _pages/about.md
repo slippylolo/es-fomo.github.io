@@ -27,6 +27,12 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 
 <!-- <br> -->
 
+## 📆 the plan
+*Full schedule to come soon.*
+
+The poster session will be 1:00-2:30 PM PT.
+
+
 <!-- ## 📆 the plan
 *All times CET, UTC+2. Full schedule to be confirmed.*
 
