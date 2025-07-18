@@ -33,20 +33,24 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 |         | Topic    | Speaker        |
 |---------|----------|----------------|
 | 8:30am  | **Opening Remarks**      |     |
-| 8:40am  | Invited Talk   | Hagay Lupesko <br> **(Cerebras Systems)**          |
-| 9:10am  | Invited Talk   | Wanchao Liang <br> **(PyTorch)**                |
+| 8:40am  | Invited Talk   | Hagay Lupesko: Zero to 50 ExaFLOPS in under a year - lessons from the trenches <br> **(Cerebras Systems)**          |
+| 9:10am  | Invited Talk   | Wanchao Liang: TorchTitan: a PyTorch native platform for training foundation models <br> **(Thinking Machines)**                |
 | 9:40am | **Coffee break**                |                               |
-| 10:00am | Invited Talk | Baris Kasikci <br> **(University of Washington)**             |
-| 10:30am | Orals Session                                         | TBA                         |
-| 11:45am | Spotlight Lightning Talks     | TBA                       |
-| noon | **Lunch Break**  |  |
+| 10:00am | Invited Talk | Baris Kasikci: The Quest For Blazingly Fast LLM Serving <br> **(University of Washington)**             |
+|         | **Orals Session 1**     |                          |
+| 10:30am | Oral    | FPTQuant: Function-Preserving Transforms for LLM Quantization         |
+| 10:45am | Oral    | Cartridges: Lightweight and general-purpose long context representations via self-study         |
+| 11:00am | Oral    | zip2zip: Inference-Time Adaptive Vocabularies for Language Models via Token Compression         |
+| 11:15am | Spotlight Lightning Talks     | TBA                       |
+| 11:30am | **Lunch Break**  |  |
 | 1:00pm | 🧑‍🎓  **Poster Session**           |                    |
-| 2:30pm  | Invited Talk    | Avanika Narayan <br> **(Stanford / Rox)** |
+| 2:30pm  | Invited Talk    | Avanika Narayan: Minions: Cost-efficient Collaboration Between On-device and Cloud Language Models <br> **(Stanford / Rox)** |
 | 3:00pm  | **Coffee break**   |   |
-| 3:30pm  | Orals Session   | TBA |
-| 4:00pm  | Invited Talk    | Zachary Charles <br> **(Google)**    |
-| 4:30pm  | Invited Talk    | Albert Gu <br> **(CMU)** |
-| 5:00pm  | **Closing Remarks / Awards** |  |
+|         | **Orals Session 2**   |    |
+| 3:30pm | Oral    | Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture         |
+| 3:45pm | Oral    | Hardware-Efficient Attention for Fast Decoding         |
+| 4:00pm  | Invited Talk    | Zachary Charles: Making Communication-Efficient Language Model Training Reliable and Scalable with DiLoCo <br> **(Google)**    |
+| 4:30pm  | **Closing Remarks / Awards** |  |
 
 <br>
 
