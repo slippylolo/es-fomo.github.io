@@ -50,7 +50,8 @@ subtitle: <i>Workshop at the International Conference on Machine Learning (ICML)
 | 3:30pm | Oral    | Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture         |
 | 3:45pm | Oral    | Hardware-Efficient Attention for Fast Decoding         |
 | 4:00pm  | **Invited Talk**    | Zachary Charles: Making Communication-Efficient Language Model Training Reliable and Scalable with DiLoCo <br> **(Google)**    |
-| 4:30pm  | **Closing Remarks / Awards** |  |
+| 4:30pm  | **Invited Talk**    | Albert Gu: H-Nets <br> **(CMU / Cartesia AI)**    |
+| 5:00pm  | **Closing Remarks / Awards** |  |
 
 <br>
 
